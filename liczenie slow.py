@@ -1,0 +1,1 @@
+print(len(input("Wklej tekst, a ja policze liczbę słów:").split()))
