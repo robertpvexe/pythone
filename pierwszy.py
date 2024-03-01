@@ -10,7 +10,4 @@ rok_urodzenia = int(input("Podaj rok urodzenia: "))
 wiek = dzis_rok - rok_urodzenia
 
 print("Masz " + str(wiek) + " lat")
-
-
-
-
+print(dzis_dzien)
